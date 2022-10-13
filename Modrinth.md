@@ -12,6 +12,7 @@ Adds an item switch interface triggered by pressing a hotkey(Default: `R`). Depe
 - Item wheel for block pallets
 - Item list for dynamic items like tools, food, potions, etc.
 - Fully customizable via resource packs
+- Compatible with vanilla servers(only the inventory switching feature, may trigger anti-cheat)
 
 ## Dependencies
 
