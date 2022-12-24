@@ -42,7 +42,7 @@ public abstract class ItemSwapperSharedMod {
     private final ClientProviderManager clientProviderManager = new ClientProviderManager();
     private boolean enableShulkers = false;
     private boolean modDisabled = false;
-    private boolean bypassExcepted = false;
+    private boolean bypassExcepted = true;
     protected KeyMapping keybind = new KeyMapping("key.itemswapper.itemswitcher", InputConstants.KEY_R, "ItemSwapper");
     private boolean pressed = false;
 
